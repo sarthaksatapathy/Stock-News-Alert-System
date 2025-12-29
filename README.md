@@ -30,6 +30,10 @@ How It Works
 6. Displays results in the terminal
 
 ---
+> ⚠️ **Security Notice**  
+> The `config.py` file contains sensitive API keys and is intentionally excluded from this repository.  
+> Please create your own `config.py`or any python file locally and add your API credentials before running the application.
+
 
 
 
